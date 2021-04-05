@@ -56,7 +56,7 @@ class HelloSteemitIndonesia(BoxLayout):
 
 class HelloSteemitIndonesiaApp(App):
     def build(self):
-        return HelloSteemitIndonesia(pos=(10, 520), size_hint=(.84, .12) )
+        return HelloSteemitIndonesia(pos=(10, 520), size_hint=(.96, .12) )
 
 
 if __name__ == "__main__":
